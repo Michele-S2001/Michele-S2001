@@ -1,9 +1,10 @@
-# Hi, I'm Serafini Michele 🫱🏻
+# Hi, I'm Serafini Michele 🫱🏻 <br/>
+I'm a Jr full stack web developer 😀
 
 <br/>
 
-## 🚀 Student of the Boolean accademy !
-[**Full-stack Web developer**](https://boolean.careers/) at Online boolean course
+## 🚀 Web development addicted !
+It all started with the Boolean [**Full stack web development**](https://boolean.careers/) course!
 
 <br/>
 
