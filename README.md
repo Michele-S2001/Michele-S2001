@@ -4,17 +4,12 @@ I'm a Jr full stack web developer 😀
 <br/>
 
 ## 🚀 Web development addicted !
-It all started with the Boolean [**Full stack web development**](https://boolean.careers/) course!
+It all started with the Boolean [**Full stack web development**](https://boolean.careers/) course, where I learned the basics of 360 degree web development, studying front and back end technologies. Now I work on improving my basics and studying new technologies !
 
 <br/>
 
 ## 🔎 My greatest interests are...
 Web development & Programming languages in order to create the coolest web applications !
-
-<br/>
-
-## 💻 Link to my portfolio :)
-[**My portfolio**](https://michele-s2001.github.io/portfolio-personale/)
 
 <br/>
 
