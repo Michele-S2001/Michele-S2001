@@ -1,5 +1,12 @@
 # Hi, I'm Serafini Michele 🫱🏻 <br/>
-I'm a Jr full stack web developer 😀
+```javascript
+const me = {
+  role: "Jr full stack web developer 😀",
+  hometown: "Rome",
+  age: 23,
+  motto: "Turning ideas into reality, one line of code at a time"
+}
+```
 
 <br/>
 
