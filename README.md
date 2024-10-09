@@ -47,8 +47,9 @@ Web development & Programming languages in order to create the coolest web appli
 
 ## 📩 Social & Contacts:
 
-<a href="mailto:serafini.michele01@gmail.com"><img src="https://1000marche.net/wp-content/uploads/2020/03/Gmail-logo.png" height="35px" width="55px"/></a> 
-<a href="https://www.linkedin.com/in/michele-serafini-08574b1b7" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="37px" width="37px"/></a> <a href="https://www.instagram.com/myser2001/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-uc6feurl.png" height="37px" width="37px"/></a>
+<a href="mailto:serafini.michele01@gmail.com"><img src="https://1000marche.net/wp-content/uploads/2020/03/Gmail-logo.png" height="35px" width="55px"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/michele-serafini-08574b1b7" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="37px" width="37px"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/myser2001/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-uc6feurl.png" height="37px" width="37px"/></a>
 
 <br/>
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%">
