@@ -1,7 +1,8 @@
 # Hi, I'm Serafini Michele 🫱🏻 <br/>
 ```javascript
 const me = {
-  role: "Jr full stack web developer 😀",
+  label: "Jr full stack web developer 😀",
+  role: "Jr front-end developer",
   hometown: "Rome",
   age: 23,
   motto: "Turning ideas into reality, one line of code at a time"
@@ -15,41 +16,76 @@ It all started with the Boolean [**Full stack web development**](https://boolean
 
 <br/>
 
+## 🧰 My Job position
+I'm working as a front-end web developer for an Italian company called [**Top Consulting & Services s.r.l.**](https://www.linkedin.com/company/top-consulting-&-services-srl/posts/?feedView=all)
+
+Currently, working on:
+-  **HR management software** intended for all companies in the **Satisfactory** group. This project is built using a modern technology stack based on the nuxt metaframework <br/> ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Vuelidate](https://img.shields.io/badge/Vuelidate-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F2E040?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+<br/>
+
 ## 🔎 My greatest interests are...
-Web development & Programming languages in order to create the coolest web applications !
+I'm deeply passionate about **web development** and **programming languages**, always aiming to create the coolest web applications. Beyond coding, I also love:
+
+- 🎬 **Watching TV Series** – From thrillers to comedies, I enjoy diving into diverse genres and stories.
+- 🎶 **Listening to Music** – I have an eclectic taste in music, exploring everything from classic rock to electronic beats.
+- 🌍 **Traveling and Nature** – Exploring new places and immersing myself in nature, whether hiking through forests or relaxing by the sea, helps me recharge and find fresh inspiration.
+- 🌐 **Exploring New Tech** – I’m always interested in discovering the latest trends and tools in web development and design.
+
+These interests fuel my creativity and keep me inspired, both in and out of the coding world!
 
 <br/>
 
-## ⌨‍️ I work with & currently studying... 
+## ⌨️ I Work With & Currently Studying...
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60px" height="60px"/>&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="60px" height="60px"/> &nbsp;&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="60px" height="60px"/> &nbsp;&nbsp;
-<img src="https://nuxt.com/assets/design-kit/icon-green.png" width="60px" height="60px" /> &nbsp;&nbsp;
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="60px" height="60px" />
+### Languages & Core Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Vuelidate](https://img.shields.io/badge/Vuelidate-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F2E040?style=for-the-badge&logo=vue.js&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🛠️ Additional Tools...
+
+To complement my main toolkit, I also use these additional tools for development and design:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6A5D8B?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <br/>
-
-## 🛠️ Additional tools...
-<img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" width="60px" height="65px"/> &nbsp;&nbsp;&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="40px" height="60px"/> &nbsp;&nbsp;&nbsp; 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256" width="60px" height="60px"/> &nbsp;&nbsp;&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" width="40px" height="60px"/>
 
 ---
 
+<br/>
+
 ## 📩 Social & Contacts:
 
-<a href="mailto:serafini.michele01@gmail.com"><img src="https://1000marche.net/wp-content/uploads/2020/03/Gmail-logo.png" height="35px" width="55px"/></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/michele-serafini-08574b1b7" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="37px" width="37px"/></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/myser2001/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-uc6feurl.png" height="37px" width="37px"/></a>
+Feel free to reach out to me through any of the following platforms:
 
-<br/>
-<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serafini.michele01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-serafini-08574b1b7)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myser2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4D8CFF?style=for-the-badge&logo=github&logoColor=white)](https://michele-s2001.github.io/portfolio-personale/)
