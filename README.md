@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE33R752VpSSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246060254?e=1735776000&v=beta&t=DZuBz4-aiO7eFuobVxDS8CeJvkhVJOL2s3l4SnS8s7A"/>
+
 # Hi, I'm Serafini Michele 🫱🏻 <br/>
 ```javascript
 const me = {
