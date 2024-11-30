@@ -21,7 +21,7 @@ It all started with the Boolean [**Full stack web development**](https://boolean
 ## 🧰 My Job position
 I'm working as a front-end web developer for an Italian company called [**Top Consulting & Services s.r.l.**](https://www.linkedin.com/company/top-consulting-&-services-srl/posts/?feedView=all)
 
-Currently, working with:
+Currently, working with: <br/>
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Vuelidate](https://img.shields.io/badge/Vuelidate-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
