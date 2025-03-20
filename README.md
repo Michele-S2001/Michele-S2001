@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQE33R752VpSSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246060254?e=1741824000&v=beta&t=jM-5uj0QXhhGqnpDLwNm9z6AEhYjceMlFQlTF7RC5bg"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE33R752VpSSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246060254?e=1747872000&v=beta&t=WeJkuwUwxpdibItEAVFu_d8Zh4Yje4ZOW6jT31AWRlA"/>
 
 # Hi, I'm Serafini Michele 🫱🏻 <br/>
 ```javascript
