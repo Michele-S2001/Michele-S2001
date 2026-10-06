@@ -4,7 +4,7 @@ const me = {
   label: "Jr full stack web developer 😀",
   role: "Jr front-end developer",
   hometown: "Rome",
-  age: 23,
+  age: 25,
   motto: "Turning ideas into reality, one line of code at a time"
 }
 ```
